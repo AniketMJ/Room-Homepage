@@ -1,2 +1,2 @@
 # Room-Homepage
-## This website design is taken from [Frontendmentor.io]("https://www.frontendmentor.io/")
+## This website design is taken from [Frontendmentor.io](https://www.frontendmentor.io/ "Frontend Mentor")
